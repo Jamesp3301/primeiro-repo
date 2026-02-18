@@ -20,6 +20,7 @@ namespace MovieManager
             Director = director;
             Year = year;
             Genre = genre;
+            "test commit agaib"
     }
 
 

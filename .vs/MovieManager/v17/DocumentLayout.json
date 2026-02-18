@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{14CEEED1-FF92-4580-9751-DCD4463A4B39}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14CEEED1-FF92-4580-9751-DCD4463A4B39}|MovieManager\\MovieManager.csproj|c:\\users\\james\\documents\\github\\primeiro-repo\\moviemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14CEEED1-FF92-4580-9751-DCD4463A4B39}|MovieManager\\MovieManager.csproj|C:\\Users\\James\\Documents\\GitHub\\primeiro-repo\\moviemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14CEEED1-FF92-4580-9751-DCD4463A4B39}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14CEEED1-FF92-4580-9751-DCD4463A4B39}|MovieManager\\MovieManager.csproj|c:\\users\\james\\documents\\github\\primeiro-repo\\moviemanager\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14CEEED1-FF92-4580-9751-DCD4463A4B39}|MovieManager\\MovieManager.csproj|C:\\Users\\James\\Documents\\GitHub\\primeiro-repo\\moviemanager\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14CEEED1-FF92-4580-9751-DCD4463A4B39}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14CEEED1-FF92-4580-9751-DCD4463A4B39}|MovieManager\\MovieManager.csproj|c:\\users\\james\\documents\\github\\primeiro-repo\\moviemanager\\upcomingmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14CEEED1-FF92-4580-9751-DCD4463A4B39}|MovieManager\\MovieManager.csproj|C:\\Users\\James\\Documents\\GitHub\\primeiro-repo\\moviemanager\\upcomingmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14CEEED1-FF92-4580-9751-DCD4463A4B39}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\upcomingmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14CEEED1-FF92-4580-9751-DCD4463A4B39}|MovieManager\\MovieManager.csproj|c:\\users\\james\\documents\\github\\primeiro-repo\\moviemanager\\releasedmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14CEEED1-FF92-4580-9751-DCD4463A4B39}|MovieManager\\MovieManager.csproj|C:\\Users\\James\\Documents\\GitHub\\primeiro-repo\\moviemanager\\releasedmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14CEEED1-FF92-4580-9751-DCD4463A4B39}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\releasedmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -83,8 +83,7 @@
               "RelativeToolTip": "MovieManager\\Movie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T09:34:17.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T09:34:17.639Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "MovieManager\\UpcomingMovie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T09:29:01.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T09:29:01.442Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "MovieManager\\ReleasedMovie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T12:34:14.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T12:34:14.8Z"
             }
           ]
         }
